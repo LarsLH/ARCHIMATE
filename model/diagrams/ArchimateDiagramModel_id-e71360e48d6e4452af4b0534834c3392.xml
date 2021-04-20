@@ -15,4 +15,40 @@
         xsi:type="archimate:ApplicationCollaboration"
         href="ApplicationCollaboration_id-adbd034775fc434ebfc6c89a4aed54bc.xml#id-adbd034775fc434ebfc6c89a4aed54bc"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-4169df11bccd436ab6cf3a36fd74e54c">
+    <bounds
+        x="812"
+        y="402"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyCollaboration"
+        href="TechnologyCollaboration_id-9d74ca0862c44f8abc09e442efcfa650.xml#id-9d74ca0862c44f8abc09e442efcfa650"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-19071c0e28e54796b3133a6d6caa0857">
+    <bounds
+        x="932"
+        y="288"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:SystemSoftware"
+        href="SystemSoftware_id-8b088b8730c642a595e316f31a244c37.xml#id-8b088b8730c642a595e316f31a244c37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-f3e81d96d21749598034997c62b05810">
+    <bounds
+        x="738"
+        y="347"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Node"
+        href="Node_id-6ad7eefdf5ab4c888397ecff5528f1ab.xml#id-6ad7eefdf5ab4c888397ecff5528f1ab"/>
+  </children>
 </archimate:ArchimateDiagramModel>
